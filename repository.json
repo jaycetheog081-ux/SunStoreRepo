@@ -1,0 +1,77 @@
+{
+  "name": "SunStore Games",
+  "description": "64-bit games for iOS 11–15",
+  "version": "1.0",
+  "apps": [
+    {
+      "name": "Flappy Bird",
+      "bundleID": "com.sunstore.flappybird64",
+      "version": "1.0",
+      "developer": "SunStore Community",
+      "category": "Games",
+      "minIOS": "13.0",
+      "maxIOS": "27.0",
+      "architecture": "arm64",
+      "description": "A 64-bit Flappy Bird-style game for compatible iOS devices.",
+      "iconURL": "https://YOUR-USERNAME.github.io/SunStoreRepo/icons/flappybird.png",
+      "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.5/org.brandonplank.flappybird.ipa",
+      "packageType": "ipa"
+    },
+    {
+      "name": "Battle for Wesnoth",
+      "bundleID": "org.wesnoth.Wesnoth",
+      "version": "1.14",
+      "developer": "The Battle for Wesnoth Project",
+      "category": "Games",
+      "minIOS": "11.0",
+      "maxIOS": "15.9",
+      "architecture": "arm64",
+      "description": "Open-source turn-based strategy game with a historical iOS port.",
+      "iconURL": "https://YOUR-USERNAME.github.io/SunStoreRepo/icons/wesnoth.png",
+      "downloadURL": "https://YOUR-USERNAME.github.io/SunStoreRepo/apps/Wesnoth.ipa",
+      "packageType": "ipa"
+    },
+    {
+      "name": "Armagetron Advanced",
+      "bundleID": "org.armagetronad.ArmageTron",
+      "version": "0.2",
+      "developer": "Armagetron Advanced Project",
+      "category": "Games",
+      "minIOS": "11.0",
+      "maxIOS": "15.9",
+      "architecture": "arm64",
+      "description": "Open-source multiplayer light-cycle game.",
+      "iconURL": "https://YOUR-USERNAME.github.io/SunStoreRepo/icons/armagetron.png",
+      "downloadURL": "https://YOUR-USERNAME.github.io/SunStoreRepo/apps/Armagetron.ipa",
+      "packageType": "ipa"
+    },
+    {
+      "name": "Biniax",
+      "bundleID": "com.sunstore.biniax",
+      "version": "1.0",
+      "developer": "Biniax Project",
+      "category": "Games",
+      "minIOS": "11.0",
+      "maxIOS": "15.9",
+      "architecture": "arm64",
+      "description": "Classic puzzle game with an open-source implementation.",
+      "iconURL": "https://YOUR-USERNAME.github.io/SunStoreRepo/icons/biniax.png",
+      "downloadURL": "https://YOUR-USERNAME.github.io/SunStoreRepo/apps/Biniax.ipa",
+      "packageType": "ipa"
+    },
+    {
+      "name": "Bos Wars",
+      "bundleID": "org.boswars.BosWars",
+      "version": "2.8",
+      "developer": "Bos Wars Project",
+      "category": "Games",
+      "minIOS": "11.0",
+      "maxIOS": "15.9",
+      "architecture": "arm64",
+      "description": "Open-source futuristic real-time strategy game.",
+      "iconURL": "https://YOUR-USERNAME.github.io/SunStoreRepo/icons/boswars.png",
+      "downloadURL": "https://YOUR-USERNAME.github.io/SunStoreRepo/apps/BosWars.ipa",
+      "packageType": "ipa"
+    }
+  ]
+}
