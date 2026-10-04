@@ -13,7 +13,7 @@
       "maxIOS": "27.0",
       "architecture": "arm64",
       "description": "A 64-bit Flappy Bird-style game for compatible iOS devices.",
-      "iconURL": "https://YOUR-USERNAME.github.io/SunStoreRepo/icons/flappybird.png",
+      "iconURL": "https://github.com/jaycetheog081-ux/SunStoreRepo/blob/main/icons/IMG_1038.png",
       "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.5/org.brandonplank.flappybird.ipa",
       "packageType": "ipa"
     },
