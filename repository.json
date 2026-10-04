@@ -18,17 +18,17 @@
       "packageType": "ipa"
     },
     {
-      "name": "Battle for Wesnoth",
-      "bundleID": "org.wesnoth.Wesnoth",
-      "version": "1.14",
-      "developer": "The Battle for Wesnoth Project",
+      "name": "PvZ",
+      "bundleID": "com.pvz.sunstore",
+      "version": "1.9.13",
+      "developer": "PopCap",
       "category": "Games",
-      "minIOS": "11.0",
-      "maxIOS": "15.9",
+      "minIOS": "7.0",
+      "maxIOS": "27.0",
       "architecture": "arm64",
-      "description": "Open-source turn-based strategy game with a historical iOS port.",
+      "description": "Defend your lawn from zombies in this awesome game!",
       "iconURL": "https://YOUR-USERNAME.github.io/SunStoreRepo/icons/wesnoth.png",
-      "downloadURL": "https://YOUR-USERNAME.github.io/SunStoreRepo/apps/Wesnoth.ipa",
+      "downloadURL": "https://archive.org/download/plants-vs-zombies-v-1-9-13/Plants-vs-Zombies-v1-9-13%20JB.ipa",
       "packageType": "ipa"
     },
     {
